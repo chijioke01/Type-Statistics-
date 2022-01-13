@@ -1,7 +1,7 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraies.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
 ```bash
 pip install pynput
@@ -10,13 +10,13 @@ pip install matplotlib
 ```
 
 # pynut 
-Pynut is a libray that allows the logging of keystrokes
+Pynut is a library that allows the logging of keystrokes
 
 # datetime 
-Datetime is a libray that supplies class to work with date and time
+Datetime is a library that supplies class to work with date and time
 
 # matlpotlib 
-Matplotlib is a libray that allows for the creation of interactive visuals
+Matplotlib is a library that allows for the creation of interactive visuals
 
 ## Description
 
