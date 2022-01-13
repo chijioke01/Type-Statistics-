@@ -9,13 +9,13 @@ pip install datetime
 pip install matplotlib
 ```
 
-# pynut 
+### pynut 
 Pynut is a library that allows the logging of keystrokes
 
-# datetime 
+### datetime 
 Datetime is a library that supplies class to work with date and time
 
-# matlpotlib 
+### matlpotlib 
 Matplotlib is a library that allows for the creation of interactive visuals
 
 ## Description
