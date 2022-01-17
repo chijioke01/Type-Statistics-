@@ -30,7 +30,7 @@ Returns the speed of which of the user typed in modeled in using a matplotlib li
 
 ## How to Use
 
-Once all depencies are installed click run and leave prgram running the background
+Once all depencies are installed click run and leave program running the background
 
 When you want to end program click the esc.
 
